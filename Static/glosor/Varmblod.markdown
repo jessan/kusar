@@ -1,5 +1,5 @@
 ---
-title: Gloas: Varmblod
+title: "Glosa: Varmblod"
 ---
 Varmblod
 ========

@@ -1,5 +1,5 @@
 ---
-title: Glosa: Skäck
+title: "Glosa: Skäck"
 ---
 Skäck (“Färg”)
 ==============
