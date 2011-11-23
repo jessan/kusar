@@ -1,0 +1,11 @@
+safe:                         true
+future:                       true
+lsi:                          true
+auto:                        false
+server:                      false
+pygments:                    false
+destination:               ./_site
+source:                   ./Static
+permalink: /blog/:year/:title.html
+site:
+  description: En fin sida om hästar!
