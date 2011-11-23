@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: default
 ---
 Fakta om hästar
 ===============

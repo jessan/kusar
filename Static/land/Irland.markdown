@@ -11,4 +11,4 @@ Hästraser från Irland
  * → [Tinker](../raser/Tinker.html "Irlänsk Tinker")
 
 
-	[stpd]: http://sv.wikipedia.org/wiki/Saint_Patrick%E2%80%99s_Day
+ [stpd]: http://sv.wikipedia.org/wiki/Saint_Patrick%E2%80%99s_Day

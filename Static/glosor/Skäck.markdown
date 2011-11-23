@@ -11,4 +11,4 @@ Källor
 ------
  * [Skäck @ Wikipedia](http://sv.wikipedia.org/wiki/Sk%C3%A4ck)
 
-	[0]: http://en.wikipedia.org/wiki/Pinto_horse "Pinto (På Engelska Wikipedia)"
+ [0]: http://en.wikipedia.org/wiki/Pinto_horse "Pinto (På Engelska Wikipedia)"

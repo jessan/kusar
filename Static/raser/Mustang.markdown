@@ -3,7 +3,7 @@ title: Mustang
 ---
 Om Mustang
 ==========
-*Mustanger* är väldigt __ståtliga__ hästar, det finns även [ett bilmärke][ford] döpt efter dem!
+*Mustanger* är väldigt __ståtliga__ hästar, det finns även [ett bilmärke][fnord] döpt efter dem!
 
 Utseénde & Kännetecken
 ----------------------
@@ -18,4 +18,4 @@ Källa
 
 
 
-	[ford]: http://sv.wikipedia.org/wiki/Ford_Mustang "Gammal bil"
+ [fnord]: http://sv.wikipedia.org/wiki/Ford_Mustang "Gammal bil"
