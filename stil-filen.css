@@ -8,8 +8,9 @@ html {
 	background-image: -webkit-repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
 	background-image: -moz-repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
 	background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
-	margin:0;padding:0;
 	font-family: 'Josefin Slab', serif;
+	margin: 0;
+	padding:0;
 	}
 
 body {
@@ -20,13 +21,18 @@ body {
 	background-size: 100% 1.2em;
 	border-radius: 1em;
 	box-shadow: .7em .7em 1.337em #634;
-	margin: 1em: auto;
-	width: 86%;
-	padding:3.141526em;
+	margin:  1em auto;
+	padding: 1em;
+	width:   77%;
 	}
 
 header {
 	background-color:black;
+	background-image:
+		-moz-radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+		-moz-radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+		-moz-radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+		-moz-radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
 	background-image:
 		radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
 		radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
@@ -35,7 +41,7 @@ header {
 	background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
 	background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 	color:#fff;
-	text-shadow:5px 7px #137;
+	text-shadow:5px 5px 9px #137, 2px 2px 3px #000;
 	}
 
 header big {
@@ -44,18 +50,65 @@ header big {
 	}
 
 header span {
+	float:right;
 	font-family: 'Devonshire', cursive;
+	font-size:1.2em;
+	letter-spacing: 0.3em;
+	margin:.7em;
 	}
 
-h1 { font-size: 3.8em; color: #01a85e; margin-bottom: 3px; }
-h1 .small { font-size: 0.4em; }
-h1 a { text-decoration: none }
-h2 { font-size: 1.5em; color: #01a85e; }
-h3 { text-align: center; color: #01a85e; }
-a { color: #01a85e; }
-.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
-.download { float: right; }
-pre { background: #000; color: #fff; padding: 15px;}
-hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
-.footer { text-align:center; padding-top:30px; font-style: italic; }
+article {
+	margin-left: 83px;
+	}
+
+h1, h2, h3, h4, a {
+	color: #01a85e;
+	text-shadow: 1px 1px 4px #051;
+	}
+
+h1, h2, h3, h4 {
+	text-shadow: 3px 3px 5px #073, 2px 2px 3px #000;
+	}
+
+h1 {
+	font-size: 3.8em;
+	margin-bottom: 3px;
+	}
+
+h1 .small {
+	font-size: 0.4em;
+	}
+h1 a {
+	text-decoration: none
+	}
+h2 {
+	font-size: 1.5em;
+	}
+h3 {
+	text-align: center;
+	}
+.description {
+	font-size: 1.2em;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-style: italic;
+	}
+.download {
+	float: right;
+	}
+pre {
+	background: #000;
+	color: #fff;
+	padding: 15px;
+	}
+hr {
+	border: 0;
+	width: 80%;
+	border-bottom: 1px solid #aaa
+	}
+footer {
+	text-align:center;
+	padding-top:30px;
+	font-style: italic;
+	}
 

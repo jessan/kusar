@@ -1,11 +1,11 @@
 safe:                         true
 future:                       true
-lsi:                          true
+lsi:                         false
 auto:                        false
 server:                      false
 pygments:                    false
 destination:               ./_site
-source:                   ./Static
+baseurl:                   /kusar/
 permalink: /blog/:year/:title.html
-site:
-  description: En fin sida om hästar!
+description: En fin sida om hästar!
+title: "Kusar: Fakta om hästar!"

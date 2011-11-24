@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Tinker
 ---
 Om Tinker

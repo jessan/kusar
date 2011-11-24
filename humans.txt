@@ -1,1 +1,37 @@
-Jessica is a human!
+/* Kolla in → http://humanstxt.org/ */
+
+/* TEAM */
+  Namn: Jessica
+  Hemsida: http://jessan.github.com/
+
+  Namn:
+  Hemsida: //
+
+  Namn: Frank
+  Hemsida: http://knarf.se/
+
+/* Tack till */
+  Alla underbara lärare!
+  Och alla super-duktiga elever x-p
+
+/* Om Sidan */
+  Teknologier: HTML5, CSS3 & en gnutta JavaScript
+  Programvara: Jekyll, git & myPaint
+  Övrigt: ¿?
+
+      \_|_|_/
+      / 0 0 \
+      |  o  |
+      | \_/ |
+      \_____/
+       _| |_
+      / \_/ \
+      |     |
+      | H3j |
+      |_____|
+      |     |
+      |  |  |
+      |  |  |
+      |  |  |
+     [___|___]
+
