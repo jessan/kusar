@@ -1,0 +1,10 @@
+---
+layout: default
+---
+Bloggen!!!
+{% for post in site.posts %}
+<a href="/kusar{{ post.url }}"><h1>{{ ps.title }}</h1>
+<div class="exert">{{ post.content | truncatewords:27 }}</div>
+<time datetime="{{ post.date | date_to_xmlschema }}" pubdate>{{ post.date | date_to_string }}</time>
+</a>
+{% endfor %}

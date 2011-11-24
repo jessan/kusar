@@ -4,7 +4,7 @@ title: Tinker
 ---
 Om Tinker
 =========
-*Tinker*, Är __enligt mig__ en utav dem finare hästsorterna som finns. Den kommer ifrån [Irland][I] och är en [Varmblodshäst][2].
+*Tinker*, Är __enligt Jessica__ en utav dem finare hästsorterna som finns. Den kommer ifrån [Irland][I] och är en [Varmblodshäst][2].
 
 Utseénde & Kännetecken
 ----------------------

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1>Om Oss (och denna sidan)</h1>
+
+<h2>Vilka vi är:</h2>
+{% for person in site.team %}
+	<div class="person" itemscope itemtype="http://data-vocabulary.org/Person">
+		Namn:    <span itemprop="name" class="name"><a href="{{ person.url }}">{{ person.name }}</a></span><br />
+		Gör:     <span itemprop="title">{{ person.duty }}</span><br />
+		Plats:   <span itemprop="address">{{ person.locus }}</span><br />
+		<hr />
+	</div>
+{% endfor %}
+
+<h2>Våra favorithästar</h2>
+<dl class="favvisar">
+	<dt><a href="./raser/Tinker.html">Tinker</a></dt>
+		<dd>är Jessans favorit.</dd>
+	<dt><a href="./raser/Mustang.html">Mustang</a></dt>
+		<dd>Frank är inte så speciellt insatt i det här med hästar; men vet att det finns en vildhästras som heter så (Frank är inte särskilt insatt i bilar heller för den delen).</dd>
+</dl>
+<p>
+	<em>Frank</em> är en gnutta avis på att Jessica och hennes skolkamrater kan läsa IT-Profil (Fanns <em>inte</em> när jag gick i grundskolan <strong>):</strong>
+</p>

@@ -7,5 +7,26 @@ pygments:                    false
 destination:               ./_site
 baseurl:                   /kusar/
 permalink: /blog/:year/:title.html
+
+### # ###  Info om sidan ### # ###
 description: En fin sida om hästar!
 title: "Kusar: Fakta om hästar!"
+
+### # ###  Info om sidan ### # ###
+team:
+  -
+    name:  Jessica
+    url:   http://jessan.github.com/
+    duty:  Skriva om hästar
+    locus: Sweden
+  -
+    name:  
+    url:   http://
+    duty:  
+    locus: 
+  -
+    name:  Frank
+    url:   http://knarf.se/
+    duty:  Hjälper till :D
+    locus: Uppland, Sweden, Sol 3
+

@@ -1,14 +1,16 @@
-/* Kolla in → http://humanstxt.org/ */
+---
+layout: none
+---
+/* Kolla in → http://humanstxt.org/ för info om denna filen */
 
 /* TEAM */
-  Namn: Jessica
-  Hemsida: http://jessan.github.com/
-
-  Namn:
-  Hemsida: //
-
-  Namn: Frank
-  Hemsida: http://knarf.se/
+{% for person in site.team %}
+  Namn:    {{ person.name }}
+  Gör:     {{ person.duty }}
+  Plats:   {{ person.locus }}
+  Hemsida: {{ person.name }}
+  {% cycle '-=-=-', '=-=-=' %}
+{% endfor %}
 
 /* Tack till */
   Alla underbara lärare!
@@ -24,11 +26,11 @@
       |  o  |
       | \_/ |
       \_____/
-       _| |_
-      / \_/ \
-      |     |
-      | H3j |
-      |_____|
+      __| |__
+     (/ \_/ \)
+     ||     ||
+     || H3j ||
+     \|_____|/
       |     |
       |  |  |
       |  |  |
