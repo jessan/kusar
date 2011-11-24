@@ -45,8 +45,8 @@ header {
 		radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
 	background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
 	background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
-	border-radius:  .69em;
-	color:           #fff;
+	border-radius: .69em;
+	color:#fff;
 	text-shadow:5px 5px 9px #137, 2px 2px 3px #000;
 	}
 
